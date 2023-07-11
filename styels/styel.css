@@ -78,7 +78,6 @@
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
 }
@@ -167,4 +166,29 @@
     font-weight: 600;
     line-height: 35px;
     margin: 4px -147px 6px 93px;
+}
+
+.main2 {
+    width: auto;
+    height: 400px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    margin: 10px 10px 10px 10px;
+}
+
+.heading-deal {
+    
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0px 10px 20px 30px;
+    
+}
+.para2{
+
+}
+
+.head-pic1{
 }
