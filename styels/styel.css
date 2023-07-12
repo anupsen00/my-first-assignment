@@ -251,21 +251,119 @@
     flex-shrink: 0;
     display: flex;
     margin: 10px 150px 30px 150px;
-    
+
 
 }
-.pic2{
+
+.pic2 {
     margin-right: 24px;
 }
+
 /* .pic3{
     margin: 10px 20px 30px 40px;
 } */
 .size {
     width: 50px;
     height: 100px
-    
 }
-.bacground-img{
-    background-image: url('Flower Asset/Rectangle 9.png');
+
+.bacground-img {
+    background-image: url('../tt/Rectangle\ 9.png');
+    width: 1170px;
+    height: 449px;
+    border-radius: 8px;
+    margin: 8px 10px 10px 90px;
+
+}
+
+.head12 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 82px 10px 20px 30px;
+
+
+}
+
+.para4 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -63px;
+}
+
+.email {
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    margin: 10px 20px 30px 240px;
+
+
+}
+
+:placeholder-shown {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.ss {
+    width: 150px;
+    height: 74px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+}
+
+.uu {
+    width: 1347px;
+    height: 449px;
+    background-color: #111010;
+
+}
+
+.jj2 {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin: -12px 12px -67px 12px;
+
+}
+
+.flower5 {
+    padding: 128px 779px 6px 552px;
+}
+
+.jj3 {
+ width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin: -61px 11px -20px 352px;
+}
+
+.para12 {
+    padding: -42px 780px 263px 496px;
+}
+
+.ko {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
     
 }
